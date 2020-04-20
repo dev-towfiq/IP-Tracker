@@ -1,0 +1,2 @@
+rootProject.name='IP Tracker'
+include ':app'
